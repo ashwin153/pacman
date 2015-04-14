@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+.texlipse
+
+.DS_Store
+
+bin/
+tmp/
+
